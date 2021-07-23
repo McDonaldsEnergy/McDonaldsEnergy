@@ -1,4 +1,7 @@
-### Hi there 👋
+### i code in java, C#, Python
+### im learning C++, and JS
+### discord.gg/fakemen, join right now (best server)
+### im 15
 
 <!--
 **McDonaldsEnergy/McDonaldsEnergy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
