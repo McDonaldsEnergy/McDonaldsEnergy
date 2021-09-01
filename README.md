@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on: **stuff**
+- 🔭 I’m currently working on: **Buddy Bot**
 - 🌱 I’m currently learning: C++, **JavaScript**
 - 👯 I’m looking to collaborate on: **nothing**
 - 🤔 I’m looking for help with: **nothing**
