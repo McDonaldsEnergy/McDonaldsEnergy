@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: **C++**, **JavaScript**
 - 🌱 I currently already know: **Java, C#, and python.**
 
-- 📫 How to reach me: **look at my discord in bio, my dms are always open but I might not accept friend request due to how many I have**
+- 📫 How to reach me: **look at my discord in bio**
 - ⚡ Fun fact: **I am 15 years old.**
 
 <!--
