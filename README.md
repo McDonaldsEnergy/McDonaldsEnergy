@@ -1,11 +1,11 @@
 Hi,
 I'm **McDonaldsEnergy**, just a regular developer doing regular things and making regular projects.
 
-  * **Experience**
+  * **Experience**;
     - Java 
     - Python
     - C#
-  * **Learning**
+  * **Learning**;
     - C++
     - JS
 
