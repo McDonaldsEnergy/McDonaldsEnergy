@@ -1,26 +1,14 @@
-**McDonaldsEnergy/McDonaldsEnergy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi,
+I'm **McDonaldsEnergy**, just a regular developer doing regular things and making regular projects.
 
-Here are some ideas to get you started:
+  * **Experience**
+    - Java 
+    - Python
+    - C#
+  * **Learning**
+    - C++
+    - JS
 
-- 🔭 I’m currently working on: **Buddy Bot, best free bot.**
 
-- 🌱 I’m currently learning: **C++**, **JavaScript**
-- 🌱 I currently already know: **Java, C#, and python.**
-
-- 📫 How to reach me: **look at my discord in bio**
-- ⚡ Fun fact: **I am 15 years old.**
-
-<!--
-**McDonaldsEnergy/McDonaldsEnergy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mcdonaldsenergy&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mcdonaldsenergy&langs_count=5&theme=tokyonight)]()
