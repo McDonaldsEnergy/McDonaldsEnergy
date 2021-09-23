@@ -1,4 +1,3 @@
-![My Discord](https://discord-readme-badge.vercel.app/api?id=854342512277979177)
 Hi, I'm **McDonaldsEnergy**, just a regular developer doing regular things and making regular projects.
 
   * **Experience**;
