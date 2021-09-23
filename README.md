@@ -1,5 +1,6 @@
-Hi,
-I'm **McDonaldsEnergy**, just a regular developer doing regular things and making regular projects.
+![](https://dcbadge.vercel.app/api/shield/854342512277979177)
+
+Hi, I'm **McDonaldsEnergy**, just a regular developer doing regular things and making regular projects.
 
   * **Experience**;
     - Java 
