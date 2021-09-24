@@ -1,4 +1,4 @@
-
+[![Discord Status, if this text is visible and blue that means that the host or discord status thing is in maintenance/down](https://discord.c99.nl/widget/theme-1/854342512277979177.png)]()
 
 Hi, I'm **McDonaldsEnergy**, just a regular developer doing regular things and making regular projects.
 
